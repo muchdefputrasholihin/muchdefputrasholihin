@@ -1,30 +1,33 @@
 # Hi there, I'm Much Def Putra Sholihin - Def Putra 👋
 ## About me:
+- 🤔 I’m Data Analyst
+- 🌱 I’m currently learning Python and Mysql
 - 🔭 I’m Student University of Darussalam Gontor
-- 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: muchdefputrasholihin@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universty of Darussalam Gontor](https://unida.gontor.ac.id/) | Informatics Engineering | Ponorogo `2022`
+
+   - Student Executive Board
+   - Chief of Unida Choice Awards
+   - Scholarship from Kutai Kartanegara
+   - Committee The Spectaculer Night Show
+   - Chief of Workshop Informatics Engineering
+   - Chief of Sports week Informatics Engineering
+   - Student Association of Informatics Engineering
+   - Chief of University of Darussalam Gontor Choice Awards
+     
+ #### 2. [Pondok Modern Darussalam Gontor ](https://gontor.ac.id/) |  Ponorogo `2019-2022`
+   - Dormitory Manager
+   - Chief of Class Five E
+   - Committee The Spectaculer Night Show class Five
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. 
+#### 2. 
 ---
 
 ### Languages and Tools:
@@ -35,25 +38,19 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Visual Studio Code" width="70px" src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png" style="padding-right:10px;" />][webdev]
+
 
 <br />
 <br />
 
 ---
 ### Connect with me:
+[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" style="padding-right:10px;" />](https://www.instagram.com/)
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[<img align="left" alt="LinkIn" width="30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-hayw34sa.png" style="padding-right:10px;" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
+[webdev]: https://github.com/muchdefputrasholihin/
