@@ -12,7 +12,6 @@
 #### 1. [Universty of Darussalam Gontor](https://unida.gontor.ac.id/) | Informatics Engineering | Ponorogo `2022`
 
    - Student Executive Board
-   - Chief of Unida Choice Awards
    - Scholarship from Kutai Kartanegara
    - Committee The Spectaculer Night Show
    - Chief of Workshop Informatics Engineering
