@@ -49,7 +49,7 @@
 
 [<img align="left" alt="LinkIn" width="30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-hayw34sa.png" style="padding-right:10px;" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
 
-
+[<img align="left" alt="Tableau" width="30px" src="[https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-hayw34sa.png" style="padding-right:10px](https://public.tableau.com/app/profile/much.def.putra.sholihin/vizzes);" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
 
 
 [webdev]: https://github.com/muchdefputrasholihin/
