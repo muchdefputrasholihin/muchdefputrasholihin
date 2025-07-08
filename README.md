@@ -49,7 +49,9 @@
 
 [<img align="left" alt="LinkIn" width="30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-hayw34sa.png" style="padding-right:10px;" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
 
-[<img align="left" alt="Tableau" width="50px" src="[https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png](https://public.tableau.com/app/profile/much.def.putra.sholihin/vizzes)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Tableau" width="30px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/much.def.putra.sholihin/vizzes)
+
+
 
 
 [webdev]: https://github.com/muchdefputrasholihin/
