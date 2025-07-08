@@ -47,7 +47,7 @@
 ### Connect with me:
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" style="padding-right:10px;" />](https://www.instagram.com/)
 
-[<img align="left" alt="LinkIn" width="30px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-hayw34sa.png" style="padding-right:10px;" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
+[<img align="left" alt="LinkIn" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw0Ihk12SrBa2KO3_AW5HXgc&ust=1752035940505000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiV6tK4rI4DFQAAAAAdAAAAABAE" style="padding-right:10px;" />](https://www.linkedin.com/in/much-def-putra-sholihin-22b071310/)
 
 [<img align="left" alt="Tableau" width="30px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/much.def.putra.sholihin/vizzes)
 
